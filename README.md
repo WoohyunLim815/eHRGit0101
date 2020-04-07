@@ -51,13 +51,28 @@
         2.1.1 하위아이템  
 
 ## 코드블록
-''' 프로그래밍 언어이름
+``` 프로그래밍 언어이름
 코드 내용
-'''
+```
+
+```python
+def func();
+print "HR_KIM"
+print "spring"
+pass
+```
+
+```javascript
+var data="HR Spring"
+data.song = "너에게로초대";
+```
 
 
 
-
+가로선
+---
+***
+````````
 
 
 
