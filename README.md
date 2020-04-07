@@ -73,10 +73,13 @@ data.song = "너에게로초대";
 ---  
 ***  
 하이퍼링크  
-'''[링크테스트](URL)  
+'''[링크테스트](URL "설명")  
 '''  
-[HR Spring][http://cafe.naver.com/kndjang "SIST 강북 스프링"]  
+[HR Spring](http://cafe.naver.com/kndjang "SIST 강북 스프링")  
 
+강조
+__강조텍스트__
+강조텍스트
 
 
 
